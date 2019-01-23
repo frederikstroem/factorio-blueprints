@@ -5,6 +5,7 @@ Blueprints are rendered with [*BlueprintBot*](https://discordbots.org/bot/310607
 
 ## Table of Contents
 - [Smelting](#smelting)
+  - [Steel furnace smelting](#string---steel-furnace-smelting)
 
 ## Smelting
 
