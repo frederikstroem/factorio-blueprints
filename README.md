@@ -9,8 +9,15 @@ You are welcome to contribute, just fork the repository and send a pull request 
 ## Table of Contents
 - [Smelting](#smelting)
   - [Steel furnace smelting](#string---steel-furnace-smelting)
+- [Mining](#mining)
+  - [Compact mining](#string---compact-mining)
 
 ## Smelting
 
 ### [String](/id/id0/string) - Steel furnace smelting
 ![id0](/id/id0/blueprint.png)
+
+## Mining
+
+### [String](/id/id1/string) - Compact mining
+![id1](/id/id1/blueprint.png)
