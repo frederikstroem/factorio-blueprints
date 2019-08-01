@@ -11,6 +11,7 @@ You are welcome to contribute, just fork the repository and send a pull request 
   - [Steel furnace smelting](#string---steel-furnace-smelting)
 - [Mining](#mining)
   - [Compact mining](#string---compact-mining)
+  - [Compact mining (9 miners long)](#string---compact-mining-9-miners-long)
 
 ## Smelting
 
@@ -21,3 +22,6 @@ You are welcome to contribute, just fork the repository and send a pull request 
 
 ### [String](/id/id1/string) - Compact mining
 ![id1](/id/id1/blueprint.png)
+
+### [String](/id/id2/string) - Compact mining (9 miners long)
+![id2](/id/id2/blueprint.png)
